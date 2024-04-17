@@ -13,6 +13,22 @@ redirect_from:
 
 Education
 ======
+**2024 – 2027 (expected) Osaka Metropolitan University**
+Ph.D in Psychology
+Osaka, Japan
+**2020 – 2022 Touro University**
+California, U.S.
+M.A. in Psychology
+**2011 University of Siena (exchange)**
+Italian Modern Culture
+Siena, Italy
+**2009 University of Toronto in Berlin (exchange)**
+German Film and Politics
+Berlin, Germany
+**2006 – 2013 University of Toronto (B.A.)**
+B.A. Double Majored in Music and New Media Studies
+Toronto, Canada
+
 * Ph.D in Psychology, Osaka Metropolitan University, 2027 (expected)
 * M.A. in Psychology, Touro University, 2022
 * B.A. in Music and New Media Studies, University of Toronto, 2013
