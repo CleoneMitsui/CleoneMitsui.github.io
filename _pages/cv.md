@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Psychology **Osaka Metropolitan University**, 2027 (expected)    
+* Ph.D in Psychology, **Osaka Metropolitan University**, 2027 (expected)    
 Osaka, Japan  
 
 * M.A. in Psychology, **Touro University**, 2022    
@@ -35,13 +35,13 @@ Berlin, Germany
 
 Work Experience
 ======
-* May 2020 - Present: **Moose School** - Hybrid
+* 2020 - Present: **Moose School** - Hybrid
   * <u>TEFL Certified Language Teacher</u>
   * Curriculum Design and Development: Developing and implementing lesson plans tailored for IELTS preparation and specialised business English courses covering engineering, finance, nursing, and marketing
   * Diverse Student Body: Marketed language lessons to a global audience, retained over 100 adult learners from more than 12 different countries in three years
 
 
-* Mar 2016 - May 2017: **PERSOL Career** (former: Intelligence) - Tokyo, Japan
+* 2015 - 2017: **PERSOL Career** (former: Intelligence) - Tokyo, Japan
   * <u>Career Consultant</u>
   * Placed bilingual professionals within multinational firms in financial, legal, and business consulting sectors
   * Negotiation and Closing: Negotiated job offers, addressing concerns, and closing placements effectively to meet the expectations of all parties
@@ -49,13 +49,13 @@ Work Experience
 highest revenue generator in the international department
 
 
-* Oct 2011 - Nov 2012: **Apple** - London, United Kingdom  
+* 2011 - 2013: **Apple** - London, United Kingdom  
   * <u>Technical Specialist and Creative Trainer</u>  
   * Apple certified technician
   * Technical Support and Troubleshooting: Provided technical assistance, diagnosing and resolving hardware and software issues, ensuring optimal functionality
 
 
-* Dec 2006 - Jul 2011: **Fairchild TV, TVB** - Toronto, Canada  
+* 2006 - 2011: **Fairchild TV, TVB** - Toronto, Canada  
   * <u>Broadcast Presenter</u>
   * Host Weekly News Programs: Led and anchored a weekly news show in Cantonese and/or Mandarin, providing commentary on current events
   * Conduct Interviews: Engaged with guests from various sectors to delve into topical discussions
