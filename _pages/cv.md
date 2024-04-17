@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](https//cleone.github.io/files/cv.pdf)
+[Download CV here](https://cleone.github.io/files/cv.pdf)
 
 Education
 ======
