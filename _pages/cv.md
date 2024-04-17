@@ -13,35 +13,42 @@ redirect_from:
 
 Education
 ======
-**2024 – 2027 (expected) Osaka Metropolitan University**  
-Ph.D in Psychology  
+* Ph.D - Osaka Metropolitan University, 2024 – 2027 (expected)  
+Psychology
 Osaka, Japan  
-**2020 – 2022 Touro University**  
+
+* M.A. - Touro University, 2020 – 2022 
+Psychology   
 Los Alamitos, United States    
-M.A. in Psychology  
-**2011 University of Siena (exchange)**  
+
+* B.A. University of Toronto, 2006 – 2013  
+Double Majored in Music and New Media Studies  
+Toronto, Canada  
+
+**Exchange Studies**  
+* 2011 University of Siena**  
 Italian Modern Culture  
 Siena, Italy  
-**2009 University of Toronto in Berlin (exchange)**  
+
+* 2009 University of Toronto in Berlin**  
 German Film and Politics  
 Berlin, Germany  
-**2006 – 2013 University of Toronto (B.A.)**  
-B.A. Double Majored in Music and New Media Studies  
-Toronto, Canada  
 
 
 Work Experience
 ======
-* May 2020 - Present: TEFL Certified Language Teacher
+* May 2020 - Present: TEFL Certified Language Teacher - Hybrid
   * Moose School
 
-* Mar 2016 - Apr 2017: Career Consultant
+* Mar 2016 - May 2017: Career Consultant - Tokyo, Japan
   * PERSOL Career (former: Intelligence)
+  * Achievement: Grossing over 13 million JPY in a quarter, placed as the 2nd
+highest revenue generator in the international department.
 
-* Oct 2011 - Nov 2012: Apple Certified Technician
-  * Apple Inc.
+* Oct 2011 - Nov 2012: Technical Specialist and Creative Trainer - London, United Kingdom
+  * **Apple Inc.**
 
-* Dec 2006 - Jul 2011: Program Host / Talent
+* Dec 2006 - Jul 2011: Program Host / Talent - Toronto, Canada
   * Fairchild Television
 
   
