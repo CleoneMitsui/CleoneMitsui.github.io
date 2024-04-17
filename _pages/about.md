@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a PhD student at [Osaka Metropolitan University](https://www.omu.ac.jp/), exploring social and political psychology under the guidance of [Dr. Yuta Kawamura](https://ytkm2.github.io/MyWebsite/english.html).
 
-My career has unfolded more like a patchwork quilt than a straight line. I have worn many hats: computer technician in London, TV presenter in Toronto, and recruitment consultant in Tokyo. With part-time gigs in Auckland and Munich and education spanning from Toronto to Berlin, Siena, and now Osaka, each step has peppered my research with real-world seasoning.
+My career has unfolded more like a patchwork quilt than a straight line. From early days as a TV presenter in Toronto to roles in computer technician in London and recruitment consulting in Tokyo. With part-time gigs in Auckland and Munich, and education spanning from Toronto to Berlin, Siena, and now Osaka, each step has peppered my research with real-world seasoning.
 
 Currently, I am on a quest to connect the dots between the individual actions and the broader societal patterns under the realms of politics. The psychological cogs turning behind political beliefs and moral choices central to my research. My research aims to uncover how these factors shape our conversations and actions across different societies.
 
