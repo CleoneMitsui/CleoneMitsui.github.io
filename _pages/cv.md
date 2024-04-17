@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](https://cleone.github.io/files/cv.pdf)
+<!-- [Download CV here](https://cleone.github.io/files/cv.pdf) -->
 
 Education
 ======
@@ -44,7 +44,7 @@ Skills
   * Cantonese
   * French
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -64,4 +64,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
