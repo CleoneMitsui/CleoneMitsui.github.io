@@ -19,7 +19,7 @@ Osaka, Japan
 * M.A. in Psychology, **Touro University**, 2022    
 Los Alamitos, United States    
 
-* B.A. **University of Toronto**, 2013  
+* B.A. **University of Toronto**, 2011  
 Double Majored in Music and New Media Studies  
 Toronto, Canada  
 
