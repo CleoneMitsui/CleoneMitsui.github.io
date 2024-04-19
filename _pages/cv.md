@@ -19,7 +19,7 @@ Osaka, Japan
 * M.A. in Psychology, **Touro University**, 2022    
 Los Alamitos, United States    
 
-* B.A. **University of Toronto**, 2011  
+* B.A. **University of Toronto**, 2013  
 Double Majored in Music and New Media Studies  
 Toronto, Canada  
 
@@ -38,7 +38,7 @@ Work Experience
 * 2020 - Present: **Moose School** - Hybrid
   * <u>TEFL Certified Language Teacher</u>
   * Curriculum Design and Development: Developing and implementing lesson plans tailored for IELTS preparation and specialised business English courses covering engineering, finance, nursing, and marketing
-  * Diverse Student Body: Marketed language lessons to a global audience, retained over 100 adult learners from more than 12 different countries in three years
+  * Diverse Student Body: Marketed language lessons to a global audience, retained over 100 adult learners from 12 different countries in three years
 
 
 * 2015 - 2017: **PERSOL Career** (former: Intelligence) - Tokyo, Japan
