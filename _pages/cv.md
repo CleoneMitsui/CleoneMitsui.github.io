@@ -17,7 +17,7 @@ Education
 Osaka, Japan  
 
 * M.A. in Psychology, **Touro University**, 2022    
-Los Alamitos, United States    
+Los Alamitos, United States (distance learning)    
 
 * B.A. **University of Toronto**, 2013  
 Double Majored in Music and New Media Studies  
