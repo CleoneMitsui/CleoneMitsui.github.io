@@ -21,4 +21,4 @@ I have taken the scenic route back to academia, so my publication list is still 
 
 **Off the Clock**  
 
-When I am not tangled in research, you will find me on the badminton court with the [Kumatori Badminton](https://instagram.com/kumatori.ladies) under the [Osaka Ladies Badminton Federation](https://www.jlbad.gr.jp/index.php/), where my enthusiasm outmatches my skill. At home, I switch gears to play piano tunes and as for parenting my two young sons? I am consistently outpaced, outnumbered, and thoroughly entertained by their boundless energy.
+When I am not tangled in research, you will find me on the badminton court with the [Kumatori Badminton](https://instagram.com/kumatori.ladies) under the [Osaka Ladies Badminton Federation](https://www.jlbad.gr.jp/index.php/), where my enthusiasm outmatches my skill. At home, I switch gears to play music, paint, and parenting my two young sons. I am consistently outpaced and outnumbered by their boundless energy.
