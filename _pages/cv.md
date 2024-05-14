@@ -19,7 +19,7 @@ Osaka, Japan
 * M.A. in Psychology, **Touro University**, 2022    
 Los Alamitos, United States (distance learning)    
 
-* B.A. **University of Toronto**, 2013  
+* H.B.A. **University of Toronto**, 2013  
 Double Majored in Music and New Media Studies  
 Toronto, Canada  
 
@@ -41,7 +41,7 @@ Work Experience
   * Diverse Student Body: Marketed language lessons to a global audience, retained over 100 adult learners from 12 different countries in three years
 
 
-* 2015 - 2017: **PERSOL Career** (former: Intelligence) - Tokyo, Japan
+* 2016 - 2017: **PERSOL Career** (former: Intelligence) - Tokyo, Japan
   * <u>Career Consultant</u>
   * Placed bilingual professionals within multinational firms in financial, legal, and business consulting sectors
   * Negotiation and Closing: Negotiated job offers, addressing concerns, and closing placements effectively to meet the expectations of all parties
@@ -67,13 +67,9 @@ Skills
 ======
 * Qualtrics
 * Programming
-  * R
   * C++
-* Languages
-  * English
-  * Japanese
-  * Cantonese
-  * French
+  * R
+  * Python
 
 Publications
 ======
