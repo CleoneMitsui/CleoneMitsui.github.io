@@ -1,10 +1,13 @@
 # main links
 main:
+  - title: "CV"
+    url: /cv/
+    
   - title: "Publications"
     url: /publications/
 
   - title: "Presentations"
-    url: /talks/    
+    url: /talks/
 
 #  - title: "Teaching"
 #    url: /teaching/    
@@ -14,9 +17,6 @@ main:
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
-
-  - title: "CV"
-    url: /cv/
 
 #  - title: "Guide"
 #    url: /markdown/
