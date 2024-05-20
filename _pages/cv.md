@@ -16,31 +16,31 @@ editor_options:
 
 # Education
 
--   (expected) Ph.D in Psychology, **Osaka Metropolitan University**,
+-   🇯🇵 (expected) Ph.D in Psychology, **Osaka Metropolitan University**,
     2027\
     Osaka, Japan
 
--   M.A. in Psychology, **Touro University**, 2022\
+-   🇺🇸 M.A. in Psychology, **Touro University**, 2022\
     Los Alamitos, United States (distance learning)
 
--   H.B.A. **University of Toronto**, 2013\
+-   🇨🇦 H.B.A. **University of Toronto**, 2013\
     Double Majored in Music and New Media Studies\
     Toronto, Canada
 
 **Studying Abroad**
 
--   2011 - University of Siena\
+-   🇮🇹 2011 - University of Siena\
     Modern Italian Culture\
     Siena, Italy
 
--   2009 - University of Toronto in Berlin\
+-   🇩🇪 2009 - University of Toronto in Berlin\
     German Films and Politics\
     Berlin, Germany
 
 # Work Experience
 
--   2020 - Present: **Moose School** - Hybrid
-    -   <u>TEFL Certified Language Teacher</u>
+-   2020 - Present: **Moose School** - Hybrid  
+        [**TEFL Certified Language Teacher**]{style="color: #1e4f66;"}
     -   Curriculum Design and Development: Developing and implementing
         lesson plans tailored for IELTS preparation and specialised
         business English courses covering engineering, finance, nursing,
@@ -48,8 +48,10 @@ editor_options:
     -   Diverse Student Body: Marketed language lessons to a global
         audience, retained over 100 adult learners from 12 different
         countries in three years
--   2016 - 2017: **PERSOL Career** (former: Intelligence) - Tokyo, Japan
-    -   <u>Career Consultant</u>
+
+-   🇯🇵 2016 - 2017: **PERSOL Career** (former: Intelligence) - Tokyo,
+    Japan  
+        [**Career Consultant**]{style="color: #1e4f66;"}
     -   Placed bilingual professionals within multinational firms in
         financial, legal, and business consulting sectors
     -   Negotiation and Closing: Negotiated job offers, addressing
@@ -58,14 +60,15 @@ editor_options:
     -   <u>Achievement</u>: Grossing over 13 million JPY in a quarter,
         placed as the 2nd highest revenue generator in the international
         department
--   2011 - 2013: **Apple** - London, United Kingdom
-    -   <u>Technical Specialist and Creative Trainer</u>
-    -   Apple Certified Technician
+
+-   🇬🇧 2011 - 2013: **Apple** - London, United Kingdom  
+        [**Apple Certified Technician**]{style="color: #1e4f66;"}
     -   Technical Support and Troubleshooting: Provided technical
         assistance, diagnosing and resolving hardware and software
         issues, ensuring optimal functionality
--   2006 - 2011: **Fairchild TV, TVB** - Toronto, Canada
-    -   <u>Broadcast Presenter</u>
+
+-   🇨🇦 2006 - 2011: **Fairchild TV, TVB** - Toronto, Canada  
+        [**Broadcast Presenter**]{style="color: #1e4f66;"}
     -   News Programs: Led and anchored news shows in Cantonese and/or
         Mandarin, providing commentary on current events
     -   Conduct Interviews: Engaged with guests from various sectors to
@@ -91,6 +94,7 @@ archive-single-cv.html %} {% endfor %}</ul>
 <ul>{% for post in site.talks reversed %} {% include
 archive-single-talk-cv.html %} {% endfor %}</ul>
 
+```{=html}
 <!--
 Teaching
 ======
@@ -102,4 +106,4 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams
 -->
-
+```
