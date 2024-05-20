@@ -15,10 +15,10 @@ Currently, I am on a quest to connect the dots between the individual actions an
 
 If you are drawn to the interplay of psychology and politics, and fancy a collaboration or chat, please feel free to reach out.
 
-[**Publications**]{style="color: #1e4f66;"}
+<span style="color: #1e4f66;">**Publications**</span>
 
 I have taken the scenic route back to academia, so my publication list is still in the making. Manuscripts are now making their rounds in the rigorous world of peer review. Your patience and interest are greatly appreciated as I lay the first stones. Stay tuned for updates!
 
-[**Off the Clock**]{style="color: #1e4f66;"}
+<span style="color: #1e4f66;">**Off the Clock**</span>
 
 When I am not tangled in research, you will find me on the badminton court with the [Kumatori Badminton](https://instagram.com/kumatori.ladies) under the [Osaka Ladies Badminton Federation](https://www.jlbad.gr.jp/index.php/), where my enthusiasm outmatches my skill. At home, I switch gears to play music, paint, and parenting my two young sons. I am consistently outpaced and outnumbered by their boundless energy.

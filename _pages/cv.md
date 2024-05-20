@@ -40,7 +40,7 @@ editor_options:
 # Work Experience
 
 -   2020 - Present: **Moose School** - Hybrid  
-        [**TEFL Certified Language Teacher**]{style="color: #1e4f66;"}
+        <span style="color: #1e4f66;">**TEFL Certified Language Teacher**</span>
     -   Curriculum Design and Development: Developing and implementing
         lesson plans tailored for IELTS preparation and specialised
         business English courses covering engineering, finance, nursing,
@@ -51,7 +51,7 @@ editor_options:
 
 -   🇯🇵 2016 - 2017: **PERSOL Career** (former: Intelligence) - Tokyo,
     Japan  
-        [**Career Consultant**]{style="color: #1e4f66;"}
+        <span style="color: #1e4f66;">**Career Consultant**</span>
     -   Placed bilingual professionals within multinational firms in
         financial, legal, and business consulting sectors
     -   Negotiation and Closing: Negotiated job offers, addressing
@@ -62,13 +62,13 @@ editor_options:
         department
 
 -   🇬🇧 2011 - 2013: **Apple** - London, United Kingdom  
-        [**Apple Certified Technician**]{style="color: #1e4f66;"}
+        <span style="color: #1e4f66;">**Apple Certified Technician**</span>
     -   Technical Support and Troubleshooting: Provided technical
         assistance, diagnosing and resolving hardware and software
         issues, ensuring optimal functionality
 
 -   🇨🇦 2006 - 2011: **Fairchild TV, TVB** - Toronto, Canada  
-        [**Broadcast Presenter**]{style="color: #1e4f66;"}
+        <span style="color: #1e4f66;">**Broadcast Presenter**</span>
     -   News Programs: Led and anchored news shows in Cantonese and/or
         Mandarin, providing commentary on current events
     -   Conduct Interviews: Engaged with guests from various sectors to
@@ -94,7 +94,6 @@ archive-single-cv.html %} {% endfor %}</ul>
 <ul>{% for post in site.talks reversed %} {% include
 archive-single-talk-cv.html %} {% endfor %}</ul>
 
-```{=html}
 <!--
 Teaching
 ======
@@ -106,4 +105,4 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams
 -->
-```
+
