@@ -30,11 +30,11 @@ editor_options:
 **Studying Abroad**
 
 -   🇮🇹 2011 - University of Siena\
-    Modern Italian Culture\
+    A political review focusing on major political movements and themes including the Italian Unification, Futurism, Fascism, Neorealism, Regionalism, and Industrial Growth\
     Siena, Italy
 
 -   🇩🇪 2009 - University of Toronto in Berlin\
-    German Films and Politics\
+    Pre- and post-World War II eras, the tensions between the USSR, East and West Berlin, and the evolution of cultural, political, and national identity through the lens of films from both periods\
     Berlin, Germany
 
 # Work Experience
