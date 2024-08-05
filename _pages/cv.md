@@ -96,8 +96,8 @@ archive-single-talk-cv.html %} {% endfor %}</ul>
 
 # Research Grants
 
--   2024.10 - 2025.10: Research Grant by K. MATSUSHITA FOUNDATION
--   2024.4 - 2027.3: FY2024 JST Support For Pioneering Research Initiated by the Next Generation
+-   10/2024 - 09/2025 Research Grant by K. MATSUSHITA FOUNDATION
+-   04/2024 - 03/2027 FY2024 JST Support For Pioneering Research Initiated by the Next Generation
 
 <!--
 Teaching
