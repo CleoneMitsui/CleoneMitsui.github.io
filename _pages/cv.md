@@ -16,68 +16,55 @@ editor_options:
 
 # Education
 
--   🇯🇵 (expected) Ph.D in Psychology, **Osaka Metropolitan University**,
+-   🇯🇵 (expected) Ph.D (Psychology), **Osaka Metropolitan University**,
     2027\
     Osaka, Japan
 
--   🇺🇸 M.A. in Psychology, **Touro University**, 2022\
+-   🇺🇸 M.A. (Psychology), **Touro University**, 2022\
     Los Alamitos, United States (distance learning)
 
 -   🇨🇦 H.B.A. **University of Toronto**, 2013\
-    Double Majored in Music and New Media Studies\
+    Double Majored (Music and New Media Studies)\
     Toronto, Canada
 
 **Studying Abroad**
 
 -   🇮🇹 2011 - University of Siena\
-    A political review focusing on major political movements and themes including the Italian Unification, Futurism, Fascism, Neorealism, Regionalism, and Industrial Growth\
+    A political review focusing on major movements including the Italian Unification, Futurism, Fascism, Neorealism, Regionalism, and Industrial Growth\
     Siena, Italy
 
 -   🇩🇪 2009 - University of Toronto in Berlin\
-    Pre- and post-World War II eras, the tensions between the USSR, East and West Berlin, and the evolution of cultural, political, and national identity through the lens of films from both periods\
+    Pre- and post-World War II eras: the tensions between the USSR, East and West Berlin, and the evolution of cultural, political, and national identity through the lens of films from both periods\
     Berlin, Germany
 
 # Work Experience
 
 -   2020 - Present: **Moose School** - Hybrid  
-        <span style="color: #1e4f66;">**TEFL Certified Language Teacher**</span>
-    -   Curriculum Design and Development: Developing and implementing
-        lesson plans tailored for IELTS preparation and specialised
-        business English courses covering engineering, finance, nursing,
-        and marketing
+        <span style="color: #1e4f66;">**TEFL Certified ESL Teacher**</span>
+    -   Curriculum Design and Development: Developing curricula tailored for IELTS preparation and specialised business English covering engineering, finance, nursing, and marketing
     -   Diverse Student Body: Marketed language lessons to a global
         audience, retained over 100 adult learners from 12 different
-        countries in three years
+        countries
 
 -   🇯🇵 2016 - 2017: **PERSOL Career** (former: Intelligence) - Tokyo,
     Japan  
         <span style="color: #1e4f66;">**Career Consultant**</span>
     -   Placed bilingual professionals within multinational firms in
         financial, legal, and business consulting sectors
-    -   Negotiation and Closing: Negotiated job offers, addressing
-        concerns, and closing placements effectively to meet the
-        expectations of all parties
     -   <u>Achievement</u>: Grossing over 13 million JPY in a quarter,
         placed as the 2nd highest revenue generator in the international
         department
 
 -   🇬🇧 2011 - 2013: **Apple** - London, United Kingdom  
         <span style="color: #1e4f66;">**Apple Certified Technician**</span>
-    -   Technical Support and Troubleshooting: Provided technical
-        assistance, diagnosing and resolving hardware and software
-        issues, ensuring optimal functionality
+    -   Diagnosed and resolved issues across iOS, macOS, and other Apple ecosystems. Managed device repairs and delivered hands-on troubleshooting to ensure optimal functionality
 
 -   🇨🇦 2006 - 2011: **Fairchild TV, TVB** - Toronto, Canada  
         <span style="color: #1e4f66;">**Broadcast Presenter**</span>
-    -   News Programs: Led and anchored news shows in Cantonese and/or
+    -   News Programs: Led and anchored news programs in Cantonese and/or
         Mandarin, providing commentary on current events
     -   Conduct Interviews: Engaged with guests from various sectors to
         delve into topical discussions
-    -   Live Fundraising Programs: Anchored live televised fundraising
-        events, encouraging viewer participation and successfully
-        driving donation efforts
-    -   Hosted public affairs programs and act as a correspondent for
-        Fairchild Media Group affiliate stations
 
 # Skills
 
