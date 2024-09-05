@@ -16,15 +16,15 @@ editor_options:
 
 # Education
 
--   🇯🇵 (expected) Ph.D (Psychology), **Osaka Metropolitan University**,
+-   🇯🇵 (expected) Ph.D in Psychology, **Osaka Metropolitan University**,
     2027\
     Osaka, Japan
 
--   🇺🇸 M.A. (Psychology), **Touro University**, 2022\
+-   🇺🇸 MA in Psychology, **Touro University**, 2022\
     Los Alamitos, United States (distance learning)
 
--   🇨🇦 H.B.A. **University of Toronto**, 2013\
-    Double Majored (Music and New Media Studies)\
+-   🇨🇦 HBA **University of Toronto**, 2013\
+    Double Majored in Music and New Media Studies\
     Toronto, Canada
 
 **Studying Abroad**
@@ -46,8 +46,7 @@ editor_options:
         audience, retained over 100 adult learners from 12 different
         countries
 
--   🇯🇵 2016 - 2017: **PERSOL Career** (former: Intelligence) - Tokyo,
-    Japan  
+-   🇯🇵 2016 - 2017: **PERSOL Career** - Tokyo, Japan  
         <span style="color: #1e4f66;">**Career Consultant**</span>
     -   Placed bilingual professionals within multinational firms in
         financial, legal, and business consulting sectors
@@ -83,8 +82,8 @@ archive-single-talk-cv.html %} {% endfor %}</ul>
 
 # Research Grants
 
--   10/2024 - 09/2025 Research Grant by K. MATSUSHITA FOUNDATION
--   04/2024 - 03/2027 FY2024 JST Support For Pioneering Research Initiated by the Next Generation
+-   10.2024 - 09.2025 Research Grant by K. MATSUSHITA FOUNDATION
+-   04.2024 - 03.2027 FY2024 JST Support For Pioneering Research Initiated by the Next Generation
 
 <!--
 Teaching
