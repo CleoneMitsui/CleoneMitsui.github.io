@@ -16,16 +16,16 @@ editor_options:
 
 # Education
 
--   🇯🇵 (expected) Ph.D in Psychology, **Osaka Metropolitan University**,
-    2027\
-    Osaka, Japan
+-   (expected) Ph.D in Psychology, **Osaka Metropolitan University**, 2027\
+    🇯🇵 Osaka, Japan
 
--   🇺🇸 MA in Psychology, **Touro University**, 2022\
-    Los Alamitos, United States (distance learning)
+-   MA in Psychology, **Touro University**, 2022\
+    🇺🇸 Los Alamitos, United States (distance learning)
 
--   🇨🇦 HBA **University of Toronto**, 2013\
-    Double Majored in Music and New Media Studies\
-    Toronto, Canada
+-   HBA **University of Toronto**, 2013\
+    - Major in Music
+    - Major in New Media Studies (Joint Prog. with Centennial College)
+    🇨🇦 Toronto, Canada
 
 **Studying Abroad**
 
