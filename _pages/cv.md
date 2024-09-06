@@ -22,9 +22,9 @@ editor_options:
 -   MA in Psychology, **Touro University**, 2022\
     🇺🇸 Los Alamitos, United States (distance learning)
 
--   HBA **University of Toronto**, 2013\
+-   HBA **University of Toronto**, 2013
     - Major in Music
-    - Major in New Media Studies (Joint Prog. with Centennial College)
+    - Major in New Media Studies (Joint Prog. with Centennial College)\
     🇨🇦 Toronto, Canada
 
 **Studying Abroad**
