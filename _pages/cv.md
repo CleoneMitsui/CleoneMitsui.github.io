@@ -29,13 +29,13 @@ editor_options:
 
 **Studying Abroad**
 
--   🇮🇹 2011 - University of Siena\
+-   2011 - University of Siena\
     A political review focusing on major movements including the Italian Unification, Futurism, Fascism, Neorealism, Regionalism, and Industrial Growth\
-    Siena, Italy
+    🇮🇹 Siena, Italy
 
--   🇩🇪 2009 - University of Toronto in Berlin\
+-   2009 - University of Toronto in Berlin\
     Pre- and post-World War II eras: the tensions between the USSR, East and West Berlin, and the evolution of cultural, political, and national identity through the lens of films from both periods\
-    Berlin, Germany
+    🇩🇪 Berlin, Germany
 
 # Work Experience
 
