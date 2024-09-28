@@ -38,7 +38,7 @@ editor_options:
 
 # Work Experience
 
--   2025 - 2027: **Research Fellow (DC2), JSPS**  
+-   (upcoming) 2025 - 2027: **Research Fellow (DC2), Japan Society for the Promotion of Sciences**  
         <span style="color: #1e4f66;">**日本学術振興会特別研究員 DC2**</span>
 
 -   2020 - Present: **Moose School** - Hybrid  
