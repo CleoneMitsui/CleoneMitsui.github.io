@@ -28,7 +28,6 @@ editor_options:
     🇨🇦 Toronto, Canada
 
 **Studying Abroad**
-
 -   2011 - University of Siena\
     A political review focusing on major movements including the Italian Unification, Futurism, Fascism, Neorealism, Regionalism, and Industrial Growth\
     🇮🇹 Siena, Italy
@@ -38,6 +37,9 @@ editor_options:
     🇩🇪 Berlin, Germany
 
 # Work Experience
+
+-   2025 - 2027: **Research Fellow (DC2), JSPS**  
+        <span style="color: #1e4f66;">**日本学術振興会特別研究員 DC2**</span>
 
 -   2020 - Present: **Moose School** - Hybrid  
         <span style="color: #1e4f66;">**TEFL Certified ESL Teacher**</span>
