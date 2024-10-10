@@ -1,4 +1,4 @@
-# Cleone Mitsui (三井 クリオネ / 高峰)
+# Cleone Mitsui (三井 クリオネ / 高峰 クリオネ)
 
 Hi, I'm Cleone Mitsui, a PhD student specialising in social and political psychology with a cross-cultural perspective. Based in Japan, my research employs advanced AI methodologies, including Large Language Models (LLMs), combined with quantitative research to understand political attitudes and social dynamics.
 
