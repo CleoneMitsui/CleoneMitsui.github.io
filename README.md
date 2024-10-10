@@ -1,3 +1,22 @@
+# Cleone Mitsui (三井 クリオネ / 高峰)
+
+Hi, I'm Cleone Mitsui, a PhD student specialising in social and political psychology with a cross-cultural perspective. Based in Japan, my research employs advanced AI methodologies, including Large Language Models (LLMs), combined with quantitative research to understand political attitudes and social dynamics.
+
+## Skills
+- Quantitative Research (Python, R)
+- AI in Social Science Research
+- Data Analysis and Visualisation
+- Cross-cultural Studies
+- Political and Social Psychology
+
+## Projects
+- **[Social Network's Impact on a Falsely Perceived Polarisation](#)**: Using scenarios that reflect real-world social networking interactions to address the collective perception of political orientation distributions.
+- **[Political Flexibility in the Middle Ground](#)**: A cross-cultural examination of political flexibility in the Middle Ground: Japan and the US.
+- **[LLM's power in predicting public opinion](#)**: Testing the predicting power of LLM between cultures.
+- **[Perception differences of "Stay out of it" in Japan and the U.S.](#)**: A cross-cultural examination on the influence of not taking a side in moral and political conversations.
+
+## Research Focus
+My research aims to uncover the impact of cultural context on political identity and trust by studying political attitudes across different societies, especially in Japan and the United States. By combining quantitative analysis and generative AI, I strive to offer new insights into the interplay between cultural norms and political perception.
 
 # Academic Pages
 
