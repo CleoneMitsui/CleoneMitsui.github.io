@@ -28,15 +28,13 @@ editor_options:
     🇨🇦 Toronto, Canada
 
 **Studying Abroad**
--   2011 - University of Siena\
-    A political review focusing on major movements including the Italian Unification, Futurism, Fascism, Neorealism, Regionalism, and Industrial Growth\
+-   2011 - University of Siena (Italian Political Movements)\
     🇮🇹 Siena, Italy
 
--   2009 - University of Toronto in Berlin\
-    Pre- and post-World War II eras: the tensions between the USSR, East and West Berlin, and the evolution of cultural, political, and national identity through the lens of films from both periods\
+-   2009 - University of Toronto in Berlin (Cold War and Identity in Films)\
     🇩🇪 Berlin, Germany
 
-# Work Experience
+# Professional Experience
 
 -   (upcoming) 2025 - 2027: **Research Fellow (DC2), Japan Society for the Promotion of Sciences**  
         <span style="color: #1e4f66;">**日本学術振興会特別研究員 DC2**</span>
@@ -84,8 +82,15 @@ archive-single-talk-cv.html %} {% endfor %}</ul>
 
 # Research Grants
 
+-   04.2025 - 03.2027 Research Fellowships for Young Scientists, Japan Society for the Promotion of Science
 -   10.2024 - 09.2025 Research Grant by K. MATSUSHITA FOUNDATION
 -   04.2024 - 03.2027 FY2024 JST Support For Pioneering Research Initiated by the Next Generation
+
+# Professional Membership
+
+-   International Society of Political Psychology
+-   Japanese Society of Social Psychology
+-   Society for Personality and Social Psychology
 
 <!--
 Teaching
