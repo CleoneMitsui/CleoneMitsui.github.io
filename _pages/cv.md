@@ -83,6 +83,7 @@ archive-single-talk-cv.html %} {% endfor %}</ul> -->
 # Research Grants
 
 -   04.2025 - 03.2027 Research Fellowships for Young Scientists, Japan Society for the Promotion of Science
+-   11.2024 - 03.2025 Osaka Metropolitan University FY2024 Research Fellowships
 -   10.2024 - 09.2025 Research Grant by K. MATSUSHITA FOUNDATION
 -   04.2024 - 03.2027 FY2024 JST Support For Pioneering Research Initiated by the Next Generation
 
