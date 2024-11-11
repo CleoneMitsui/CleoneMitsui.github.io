@@ -90,6 +90,7 @@ archive-single-talk-cv.html %} {% endfor %}</ul> -->
 # Professional Membership
 
 -   International Society of Political Psychology
+-   Japanese Society for Quantitative Political Science
 -   Japanese Society of Social Psychology
 -   Society for Personality and Social Psychology
 
