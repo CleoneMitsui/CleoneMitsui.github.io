@@ -4,13 +4,13 @@ layout: single
 permalink: /presentations/
 ---
 
-<br><span style="color: #336699; font-size: 1.5em;">Upcoming</span><br>
+<!-- <br><span style="color: #336699; font-size: 1.5em;">Upcoming</span><br> -->
 
 **<u>Mitsui, C.</u>**, Kawamura, Y. (2025, 2). *"Staying out of it" in moral and political disagreements backfires differently among Americans and Japanese* [Poster session]. The 25th Annual Convention of Society for Personality and Social Psychology, Denver, CO, United States, February 20-22.
 
 **<u>Mitsui, C.</u>**, Kawamura, Y. (2025, 2). *Can generative AI predict political attitudes cross-culturally? Insights from American and Japanese samples* [Poster session]. Advances in Cultural Psychology: The 1% and the 99% of Culture Preconference (at the 25th Annual Convention of Society for Personality and Social Psychology), Denver, CO, United States, February 20-22.
 
-<span style="color: #336699; font-size: 1.5em;">Presentations</span><br>
+<!-- <span style="color: #336699; font-size: 1.5em;">Presentations</span><br> -->
 
 **<u>Mitsui, C.</u>**, Kawamura, Y. (2025, 1). *Limits of Generative AI Models in Diverse Contexts: Comparing American and Japanese Political Predictions* [Oral presentation]. 2025 Winter Meeting of the Japanese Society for Quantitative Political Science, Tokyo, Japan, January 5-6.
 
