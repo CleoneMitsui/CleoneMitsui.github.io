@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Profile"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -60,10 +60,9 @@ editor_options:
 
 -   🇨🇦 2006 - 2011: **Fairchild TV, TVB** - Toronto, Canada  
         <span style="color: #1e4f66;">**Broadcast Presenter**</span>
-    -   News Programs: Led and anchored news programs in Cantonese and/or
-        Mandarin, providing commentary on current events
+    -   News Programs: Led and anchored news programs providing commentary on current events
     -   Conduct Interviews: Engaged with guests from various sectors to
-        delve into topical discussions
+        dive into topical discussions
 
 # Skills
 
