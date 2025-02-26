@@ -16,7 +16,8 @@ author_profile: true
 {% endfor %}
 
 ## Manuscripts in Prep and Under Review
+
 {% assign sorted_manuscripts = site.manuscripts | sort: "title" %}
 {% for post in sorted_manuscripts %}
-  {% include archive-single.html %}
+  <p>{{ post.authors }}. <b>{{ post.title }}</b>. {{ post.status }}.</p>
 {% endfor %}
