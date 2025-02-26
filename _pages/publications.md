@@ -23,5 +23,5 @@ author_profile: true
 
 {% assign sorted_manuscripts = site.manuscripts | sort: "title" %}
 {% for post in sorted_manuscripts %}
-  <p>{{ post.authors }}. {{ post.title }}. {{ post.status }}.</p>
+  <p>{{ post.authors }}. {{ post.title }}. <i>{{ post.status }}</i>.</p>
 {% endfor %}
