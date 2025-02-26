@@ -21,7 +21,15 @@ author_profile: true
 
 ## Manuscripts in Prep and Under Review
 
-{% assign sorted_manuscripts = site.manuscripts | sort: "title" %}
 {% for post in sorted_manuscripts %}
-  <p>{{ post.authors }}. {{ post.title }}. <i>{{ post.status }}</i>.</p>
+  {% assign author_list = post.authors | split: ", " %}
+  <p>
+    {% if author_list.size == 2 %}
+      {{ author_list[0] }} & {{ author_list[1] }}.
+    {% else %}
+      {{ post.authors }}.
+    {% endif %}
+    <b>{{ post.title }}</b>. <i>{{ post.status }}</i>.
+  </p>
 {% endfor %}
+
