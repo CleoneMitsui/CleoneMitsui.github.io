@@ -11,13 +11,16 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
+<!-- ## Published Papers -->
+
+{% assign sorted_publications = site.publications | sort: "year" | reverse %}
+{% for post in sorted_publications %}
+  <p>{{ post.authors }}. {{ post.title }}. {{ post.venue }}, {{ post.year }}. {{ post.status }}.</p>
 {% endfor %}
 
 ## Manuscripts in Prep and Under Review
 
 {% assign sorted_manuscripts = site.manuscripts | sort: "title" %}
 {% for post in sorted_manuscripts %}
-  <p>{{ post.authors }}. <b>{{ post.title }}</b>. {{ post.status }}.</p>
+  <p>{{ post.authors }}. {{ post.title }}. {{ post.status }}.</p>
 {% endfor %}
