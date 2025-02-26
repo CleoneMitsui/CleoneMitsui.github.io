@@ -14,3 +14,9 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+## Manuscripts in Prep and Under Review
+{% assign sorted_manuscripts = site.manuscripts | sort: "title" %}
+{% for post in sorted_manuscripts %}
+  {% include archive-single.html %}
+{% endfor %}
