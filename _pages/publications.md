@@ -19,7 +19,7 @@ author_profile: true
 {% endfor %}
 
 
-## Manuscripts in Prep and Under Review
+## Manuscripts in Prep or Under Review
 
 {% assign sorted_manuscripts = site.manuscripts | sort: "title" %}
 {% for post in sorted_manuscripts %}
