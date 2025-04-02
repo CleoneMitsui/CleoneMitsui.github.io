@@ -36,7 +36,7 @@ editor_options:
 
 # Professional Experience
 
--   (upcoming) 2025 - 2027: **Research Fellow (DC2), Japan Society for the Promotion of Sciences**  
+-   2025 - 2027: **Research Fellow (DC2), Japan Society for the Promotion of Sciences**  
         <span style="color: #1e4f66;">**日本学術振興会特別研究員 DC2**</span>
 
 -   2020 - Present: **Moose School** - Hybrid  
@@ -84,7 +84,7 @@ archive-single-talk-cv.html %} {% endfor %}</ul> -->
 -   04.2025 - 03.2027 Research Fellowships for Young Scientists, Japan Society for the Promotion of Science
 -   11.2024 - 03.2025 Osaka Metropolitan University FY2024 Research Fellowships
 -   10.2024 - 09.2025 Research Grant by K. MATSUSHITA FOUNDATION
--   04.2024 - 03.2027 FY2024 JST Support For Pioneering Research Initiated by the Next Generation
+-   04.2024 - 03.2025 FY2024 JST Support For Pioneering Research Initiated by the Next Generation
 
 # Professional Membership
 

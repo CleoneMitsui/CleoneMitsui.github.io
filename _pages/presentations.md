@@ -3,6 +3,9 @@ title: "Presentations"
 layout: single
 permalink: /presentations/
 ---
+<br><span style="color: #336699; font-size: 1.5em;">Upcoming</span><br>
+
+**<u>Mitsui, C.</u>**, Kawamura, Y. (2025, 7). *Mapping the Political Middle: Bi-Conceptuals and Non-Endorsers in Japan and the United States* [Poster session]. The 16th Biennial Conference of the Asian Association of Social Psychology, Subang Jaya, Selangor, Malaysia, July 10-12.
 
 <br><span style="color: #336699; font-size: 1.5em;">International</span><br>
 
