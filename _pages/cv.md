@@ -92,6 +92,7 @@ archive-single-talk-cv.html %} {% endfor %}</ul> -->
 -   Japanese Society for Quantitative Political Science
 -   Japanese Society of Social Psychology
 -   Society for Personality and Social Psychology
+-   Asian Association of Social Psychology
 
 <!--
 Teaching
