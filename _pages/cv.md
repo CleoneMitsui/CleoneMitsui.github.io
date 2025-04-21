@@ -23,8 +23,9 @@ editor_options:
     Los Alamitos, United States (distance learning)
 
 -   HBA, **University of Toronto**, 2013\
-    .Major in Music\
-    .Major in New Media Studies (Joint Prog. with Centennial College)\
+    Double Major\
+    Music\
+    New Media Studies (Joint with Centennial College)\
     Toronto, Canada
 
 **Studying Abroad**
