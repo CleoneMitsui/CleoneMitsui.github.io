@@ -17,22 +17,22 @@ editor_options:
 # Education
 
 -   (expected) Ph.D in Psychology, **Osaka Metropolitan University**, 2027\
-    🇯🇵 Osaka, Japan
+    Osaka, Japan
 
 -   MA in Psychology, **Touro University**, 2022\
-    🇺🇸 Los Alamitos, United States (distance learning)
+    Los Alamitos, United States (distance learning)
 
 -   HBA, **University of Toronto**, 2013\
     .Major in Music\
     .Major in New Media Studies (Joint Prog. with Centennial College)\
-    🇨🇦 Toronto, Canada
+    Toronto, Canada
 
 **Studying Abroad**
 -   2011 - University of Siena (Italian Political Movements)\
-    🇮🇹 Siena, Italy
+    Siena, Italy
 
 -   2009 - University of Toronto in Berlin (Cold War and Identity in Films)\
-    🇩🇪 Berlin, Germany
+    Berlin, Germany
 
 # Professional Experience
 
@@ -46,7 +46,7 @@ editor_options:
         audience, retained over 100 adult learners from 12 different
         countries
 
--   🇯🇵 2016 - 2017: **PERSOL Career** - Tokyo, Japan  
+-   2016 - 2017: **PERSOL Career** - Tokyo, Japan  
         <span style="color: #1e4f66;">**Career Consultant**</span>
     -   Placed bilingual professionals within multinational firms in
         financial, legal, and business consulting sectors
@@ -54,11 +54,11 @@ editor_options:
         placed as the 2nd highest revenue generator in the international
         department
 
--   🇬🇧 2011 - 2013: **Apple** - London, United Kingdom  
+-   2011 - 2013: **Apple** - London, United Kingdom  
         <span style="color: #1e4f66;">**Apple Certified Technician**</span>
     -   Diagnosed and resolved issues across iOS, macOS, and other Apple ecosystems. Managed device repairs and delivered hands-on troubleshooting to ensure optimal functionality
 
--   🇨🇦 2006 - 2011: **Fairchild TV, TVB** - Toronto, Canada  
+-   2006 - 2011: **Fairchild TV, TVB** - Toronto, Canada  
         <span style="color: #1e4f66;">**Broadcast Presenter**</span>
     -   News Programs: Led and anchored news programs providing commentary on current events
     -   Conduct Interviews: Engaged with guests from various sectors to
@@ -68,6 +68,9 @@ editor_options:
 
 -   Front-end: HTML/CSS, JavaScript,
 -   Back-end: Python, R, C++, Java
+
+# Qualification in Teaching
+-   TEFL Trained and Certified (120 hours), 2020
 
 <!-- # Publications
 
