@@ -65,10 +65,11 @@ editor_options:
     -   Conduct Interviews: Engaged with guests from various sectors to
         dive into topical discussions
 
-# Skills
+# Skills: AI-Integrated Experimental Design
 
--   Front-end: HTML/CSS, JavaScript,
--   Back-end: Python, R, C++, Java
+-   Programming & Tools: Python (pandas, re, json, matplotlib), R, Git, Streamlit, OpenAI API, C++, Java
+-   LLM Engineering: few-shot/zero-shot learning, probabilistic ordinal response modelling
+-   Experimental Infrastructure: real-time AI-human interaction system, mobile-friendly UI
 
 # Qualification in Teaching
 -   TEFL Trained and Certified (120 hours), 2020
