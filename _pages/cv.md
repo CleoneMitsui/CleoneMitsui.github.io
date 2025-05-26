@@ -23,7 +23,7 @@ editor_options:
     Los Alamitos, United States
 
 -   HBA, **University of Toronto**, 2013\
-    Double Major (Music and New Media)
+    Double Major (Music and New Media)\
     Toronto, Canada
 
 **Studying Abroad**
