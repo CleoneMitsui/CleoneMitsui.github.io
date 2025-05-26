@@ -47,7 +47,7 @@ editor_options:
         audience, retained over 100 adult learners from 12 different
         countries
 
--   2016 - 2017: **PERSOL Career** - Tokyo, Japan  
+-   2015 - 2017: **PERSOL Career** - Tokyo, Japan  
         <span style="color: #1e4f66;">**Career Consultant**</span>
     -   Placed bilingual professionals within multinational firms in
         financial, legal, and business consulting sectors
@@ -96,6 +96,7 @@ archive-single-talk-cv.html %} {% endfor %}</ul> -->
 -   International Society of Political Psychology
 -   Japanese Society for Quantitative Political Science
 -   Japanese Society of Social Psychology
+-   Japanese Psychological Association
 -   Society for Personality and Social Psychology
 -   Asian Association of Social Psychology
 
