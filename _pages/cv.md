@@ -20,12 +20,12 @@ editor_options:
     Osaka, Japan
 
 -   MA in Psychology, **Touro University**, 2022\
-    Los Alamitos, United States (distance learning)
+    Los Alamitos, United States
 
 -   HBA, **University of Toronto**, 2013\
     Double Major\
-    Music\
-    New Media Studies (Joint with Centennial College)\
+    1. Music\
+    2. New Media Studies (Joint with Centennial College)\
     Toronto, Canada
 
 **Studying Abroad**
