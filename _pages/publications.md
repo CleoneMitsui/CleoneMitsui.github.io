@@ -16,7 +16,9 @@ author_profile: true
 {% assign sorted_publications = site.publications | sort: "year" | reverse %}
 {% for post in sorted_publications %}
   <p>{{ post.citation }} {% if post.doi %}<a href="{{ post.doi }}" target="_blank">{{ post.doi }}</a>{% endif %}</p>
+  {{ post.content }}
 {% endfor %}
+
 
 
 ## Manuscripts in Prep or Under Review
