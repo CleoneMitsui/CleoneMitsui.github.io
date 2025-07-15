@@ -5,9 +5,13 @@ permalink: /presentations/
 ---
 <br><span style="color: #336699; font-size: 1.5em;">Upcoming</span><br>
 
-**<u>Mitsui, C.</u>**, Kawamura, Y. (2025, 7). *Mapping the Political Middle: Bi-Conceptuals and Non-Endorsers in Japan and the United States* [Poster session]. The 16th Biennial Conference of the Asian Association of Social Psychology, Subang Jaya, Selangor, Malaysia, July 10-12.
+**<u>Mitsui, C.</u>**, Kawamura, Y. (2025, 9). *The Cost of Withholding a Stance: Voters Infer Minority Views from Noncommittal Candidates* [Poster session]. The 89th Annual Convention of the Japanese Psychologyical Association, Tohoku Gakuin University, Sendai, Japan, September 5-7.
+
+**<u>Mitsui, C.</u>**, Kawamura, Y. (2025, 9). *Beyond the Political Moderate and Midpoint Response Bias: Contrasting Japan’s Bi-conceptualism with the American Ideological Structure* [Poster session]. The 66th Annual Meeting of the Japanese Society of Social Psychology, University of Tokyo, Tokyo, Japan, September 20-21.
 
 <br><span style="color: #336699; font-size: 1.5em;">International</span><br>
+
+**<u>Mitsui, C.</u>**, Kawamura, Y. (2025, 7). *Mapping the Political Middle: Bi-Conceptuals and Non-Endorsers in Japan and the United States* [Poster session]. The 16th Biennial Conference of the Asian Association of Social Psychology, Subang Jaya, Selangor, Malaysia, July 10-12.
 
 **<u>Mitsui, C.</u>**, Kawamura, Y. (2025, 2). *"Staying out of it" in moral and political disagreements backfires differently among Americans and Japanese* [Poster session]. The 25th Annual Convention of Society for Personality and Social Psychology, Denver, CO, United States, February 20-22.
 
