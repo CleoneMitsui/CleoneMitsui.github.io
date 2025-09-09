@@ -5,8 +5,6 @@ permalink: /presentations/
 ---
 <br><span style="color: #336699; font-size: 1.5em;">Upcoming</span><br>
 
-**<u>Mitsui, C.</u>**, Kawamura, Y. (2025, 9). *The Cost of Withholding a Stance: Voters Infer Minority Views from Noncommittal Candidates* [Poster session]. The 89th Annual Convention of the Japanese Psychologyical Association, Tohoku Gakuin University, Sendai, Japan, September 5-7.
-
 **<u>Mitsui, C.</u>**, Kawamura, Y. (2025, 9). *Beyond the Political Moderate and Midpoint Response Bias: Contrasting Japan’s Bi-conceptualism with the American Ideological Structure* [Poster session]. The 66th Annual Meeting of the Japanese Society of Social Psychology, University of Tokyo, Tokyo, Japan, September 20-21.
 
 <br><span style="color: #336699; font-size: 1.5em;">International</span><br>
@@ -19,6 +17,8 @@ permalink: /presentations/
 
 <span style="color: #336699; font-size: 1.5em;">Domestic (Japan)</span><br>
 
-**<u>Mitsui, C.</u>**, Kawamura, Y. (2025, 1). *Limits of Generative AI Models in Diverse Contexts: Comparing American and Japanese Political Predictions* [Oral presentation]. 2025 Winter Meeting of the Japanese Society for Quantitative Political Science（計量・数理政治学会 (JSQPS) 2025年冬季集会）, Tokyo, Japan, January 5-6.
+**<u>Mitsui, C.</u>**, Kawamura, Y. (2025, 9). *The Cost of Withholding a Stance: Voters Infer Minority Views from Noncommittal Candidates* [Poster session]. The 89th Annual Convention of the Japanese Psychologyical Association (日本心理学会第89回大会), Tohoku Gakuin University, Sendai, Japan, September 5-7. (ポスター発表)
 
-**<u>Mitsui, C.</u>**, Kawamura, Y. (2024, 8). *How cultural variations in moral and political disagreements influence the perception of not taking a side* [Poster session]. The 65th Annual Meeting of the Japanese Society of Social Psychology（日本社会心理学会第65回大会）, Tokyo, Japan, August 31-September 1.
+**<u>Mitsui, C.</u>**, Kawamura, Y. (2025, 1). *Limits of Generative AI Models in Diverse Contexts: Comparing American and Japanese Political Predictions* [Oral presentation]. 2025 Winter Meeting of the Japanese Society for Quantitative Political Science（計量・数理政治学会 JSQPS 2025年冬季集会）, Tokyo, Japan, January 5-6. (口頭発表)
+
+**<u>Mitsui, C.</u>**, Kawamura, Y. (2024, 8). *How cultural variations in moral and political disagreements influence the perception of not taking a side* [Poster session]. The 65th Annual Meeting of the Japanese Society of Social Psychology (日本社会心理学会第65回大会), Tokyo, Japan, August 31-September 1. (ポスター発表)
