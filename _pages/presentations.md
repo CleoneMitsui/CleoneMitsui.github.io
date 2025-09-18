@@ -17,7 +17,7 @@ permalink: /presentations/
 
 <span style="color: #336699; font-size: 1.5em;">Domestic (Japan)</span><br>
 
-**<u>Mitsui, C.</u>**, Kawamura, Y. (2025, 9). *The Cost of Withholding a Stance: Voters Infer Minority Views from Noncommittal Candidates* [Poster session]. The 89th Annual Convention of the Japanese Psychologyical Association (日本心理学会第89回大会), Tohoku Gakuin University, Sendai, Japan, September 5-7. (ポスター発表)
+**<u>Mitsui, C.</u>**, Kawamura, Y. (2025, 9). *The Cost of Withholding a Stance: Voters Infer Minority Views from Noncommittal Candidates* [Poster session]. The 89th Annual Convention of the Japanese Psychological Association (日本心理学会第89回大会), Tohoku Gakuin University, Sendai, Japan, September 5-7. (ポスター発表)
 
 **<u>Mitsui, C.</u>**, Kawamura, Y. (2025, 1). *Limits of Generative AI Models in Diverse Contexts: Comparing American and Japanese Political Predictions* [Oral presentation]. 2025 Winter Meeting of the Japanese Society for Quantitative Political Science（計量・数理政治学会 JSQPS 2025年冬季集会）, Tokyo, Japan, January 5-6. (口頭発表)
 
