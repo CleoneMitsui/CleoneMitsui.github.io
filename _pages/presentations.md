@@ -5,7 +5,7 @@ permalink: /presentations/
 ---
 <br><span style="color: #336699; font-size: 1.5em;">Upcoming</span><br>
 
-**<u>Mitsui, C.</u>**, Kawamura, Y. (2025, 9). *Beyond the Political Moderate and Midpoint Response Bias: Contrasting Japan’s Bi-conceptualism with the American Ideological Structure* [Poster session]. The 66th Annual Meeting of the Japanese Society of Social Psychology, University of Tokyo, Tokyo, Japan, September 20-21.
+**<u>Mitsui, C.</u>**, Kawamura, Y. (2026, 2). *Echoes in the Chat: Conformity in AI-Simulated Political Majorities* [Poster session]. The 26th Annual Convention of Society for Personality and Social Psychology, Chicago, Il, United States, February 26-28.
 
 <br><span style="color: #336699; font-size: 1.5em;">International</span><br>
 
@@ -16,6 +16,8 @@ permalink: /presentations/
 **<u>Mitsui, C.</u>**, Kawamura, Y. (2025, 2). *Can generative AI predict political attitudes cross-culturally? Insights from American and Japanese samples* [Poster session]. Advances in Cultural Psychology: The 1% and the 99% of Culture Preconference (at the 25th Annual Convention of Society for Personality and Social Psychology), Denver, CO, United States, February 20-22.
 
 <span style="color: #336699; font-size: 1.5em;">Domestic (Japan)</span><br>
+
+**<u>Mitsui, C.</u>**, Kawamura, Y. (2025, 9). *Beyond the Political Moderate and Midpoint Response Bias: Contrasting Japan’s Bi-conceptualism with the American Ideological Structure*. The 66th Annual Meeting of the Japanese Society of Social Psychology (日本社会心理学会第66回大会), University of Tokyo, Tokyo, Japan, September 20-21. (ポスター発表)
 
 **<u>Mitsui, C.</u>**, Kawamura, Y. (2025, 9). *The Cost of Withholding a Stance: Voters Infer Minority Views from Noncommittal Candidates* [Poster session]. The 89th Annual Convention of the Japanese Psychological Association (日本心理学会第89回大会), Tohoku Gakuin University, Sendai, Japan, September 5-7. (ポスター発表)
 

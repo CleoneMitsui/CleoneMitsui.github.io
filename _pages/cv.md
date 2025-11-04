@@ -48,7 +48,7 @@ editor_options:
 -   2015 - 2017: **PERSOL Career** - Tokyo, Japan  
         <span style="color: #1e4f66;">**Career Consultant**</span>
     -   Placed bilingual professionals within multinational firms in
-        financial, legal, and business consulting sectors
+        financial, legal, and audit sectors
     -   <u>Achievement</u>: Grossing over 13 million JPY in a quarter,
         placed as the 2nd highest revenue generator in the international
         department
