@@ -5,7 +5,7 @@ permalink: /presentations/
 ---
 <br><span style="color: #336699; font-size: 1.5em;">Upcoming</span><br>
 
-三石宏大・前田友吾・**<u>M三井クリオネ</u>**・河村悠太 (2025). 人は罰場面を避けるのか?―日本とアメリカにおける国際比較― 日本人間行動進化学会第18回大会, 東京, 2024年11月29日-30日. (ポスター発表)
+三石宏大・前田友吾・**<u>三井クリオネ</u>**・河村悠太 (2025). 人は罰場面を避けるのか?―日本とアメリカにおける国際比較― 日本人間行動進化学会第18回大会, 東京, 2024年11月29日-30日. (ポスター発表)
 
 **<u>Mitsui, C.</u>**, Kawamura, Y. (2026, 2). *Echoes in the Chat: Conformity in AI-Simulated Political Majorities* [Poster session]. The 26th Annual Convention of Society for Personality and Social Psychology, Chicago, Il, United States, February 26-28.
 
