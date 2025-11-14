@@ -9,7 +9,7 @@ permalink: /presentations/
 
 **<u>Mitsui, C.</u>**, Kawamura, Y. (2026, 2). *Echoes in the Chat: Conformity in AI-Simulated Political Majorities* [Poster session]. The 26th Annual Convention of Society for Personality and Social Psychology, Chicago, Il, United States, February 26-28.
 
-Mitsuiishi, K., Maeda, Y., **<u>Mitsui, C.</u>**, Kawamura, Y. (2026, 2). *Avoidance of altruistic punishment in cross-cultural contexts* [Poster session]. The 26th Annual Convention of Society for Personality and Social Psychology, Chicago, Il, United States, February 26-28.
+Mitsuishi, K., Maeda, Y., **<u>Mitsui, C.</u>**, Kawamura, Y. (2026, 2). *Avoidance of altruistic punishment in cross-cultural contexts* [Poster session]. The 26th Annual Convention of Society for Personality and Social Psychology, Chicago, Il, United States, February 26-28.
 
 <br><span style="color: #336699; font-size: 1.5em;">International</span><br>
 
