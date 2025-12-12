@@ -5,8 +5,6 @@ permalink: /presentations/
 ---
 <br><span style="color: #336699; font-size: 1.5em;">Upcoming</span><br>
 
-三石宏大・前田友吾・**<u>三井クリオネ</u>**・河村悠太 (2025). 人は罰場面を避けるのか?―日本とアメリカにおける国際比較― 日本人間行動進化学会第18回大会, 東京, 2025年11月29日-30日. (ポスター発表)
-
 **<u>Mitsui, C.</u>**, Kawamura, Y. (2026, 2). *Echoes in the Chat: Conformity in AI-Simulated Political Majorities* [Poster session]. The 26th Annual Convention of Society for Personality and Social Psychology, Chicago, Il, United States, February 26-28.
 
 Mitsuishi, K., Maeda, Y., **<u>Mitsui, C.</u>**, Kawamura, Y. (2026, 2). *Avoidance of altruistic punishment in cross-cultural contexts* [Poster session]. The 26th Annual Convention of Society for Personality and Social Psychology, Chicago, Il, United States, February 26-28.
@@ -20,6 +18,8 @@ Mitsuishi, K., Maeda, Y., **<u>Mitsui, C.</u>**, Kawamura, Y. (2026, 2). *Avoida
 **<u>Mitsui, C.</u>**, Kawamura, Y. (2025, 2). *Can generative AI predict political attitudes cross-culturally? Insights from American and Japanese samples* [Poster session]. Advances in Cultural Psychology: The 1% and the 99% of Culture Preconference (at the 25th Annual Convention of Society for Personality and Social Psychology), Denver, CO, United States, February 20-22.
 
 <span style="color: #336699; font-size: 1.5em;">Domestic (Japan)</span><br>
+
+三石宏大・前田友吾・**<u>三井クリオネ</u>**・河村悠太 (2025). 人は罰場面を避けるのか?―日本とアメリカにおける国際比較― 日本人間行動進化学会第18回大会, 東京, 2025年11月29日-30日. (ポスター発表)
 
 **<u>Mitsui, C.</u>**, Kawamura, Y. (2025, 9). *Beyond the Political Moderate and Midpoint Response Bias: Contrasting Japan’s Bi-conceptualism with the American Ideological Structure*. The 66th Annual Meeting of the Japanese Society of Social Psychology (日本社会心理学会第66回大会), University of Tokyo, Tokyo, Japan, September 20-21. (ポスター発表)
 
