@@ -72,7 +72,6 @@ editor_options:
 # Teaching
 **Teaching Fellow**
    2025-2026 Undergraduate Course: Statistical Methods in Psychology
-
 **Qualification**
    TEFL Trained and Certified (120 hours), 2020
 
