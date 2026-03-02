@@ -90,6 +90,10 @@ archive-single-talk-cv.html %} {% endfor %}</ul> -->
 -   10.2024 - 09.2025 Research Grant by K. MATSUSHITA FOUNDATION
 -   04.2024 - 03.2025 FY2024 JST Support For Pioneering Research Initiated by the Next Generation
 
+# Awards
+
+-   2026 Society for Personality and Social Psychology, International Travel/Registration Award ($850)
+
 # Professional Membership
 
 -   International Society of Political Psychology
