@@ -69,7 +69,11 @@ editor_options:
 -   LLM Engineering: few-shot/zero-shot learning, probabilistic ordinal response modelling
 -   Experimental Infrastructure: real-time AI-human interaction system, mobile-friendly UI
 
-# Qualification in Teaching
+# Teaching
+**Teaching Fellow**
+-   2025-2026 Undergraduate Course: Statistical Methods in Psychology
+
+**Qualification**
 -   TEFL Trained and Certified (120 hours), 2020
 
 <!-- # Publications
@@ -92,7 +96,8 @@ archive-single-talk-cv.html %} {% endfor %}</ul> -->
 
 # Awards
 
--   2026 Society for Personality and Social Psychology, International Travel/Registration Award ($850)
+-   2026 **International Travel/Registration Award** ($850), Society for Personality and Social Psychology
+-   2026 **Distinguished Poster Presentation Award**, Japanese Psychological Association
 
 # Professional Membership
 
