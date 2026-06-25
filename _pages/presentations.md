@@ -24,6 +24,8 @@ Mitsuishi, K., Maeda, Y., **<u>Mitsui, C.</u>**, Kawamura, Y. (2026, 6). *Avoida
 
 <span style="color: #336699; font-size: 1.5em;">Domestic (Japan)</span><br>
 
+1. **<u>Mitsui, C.</u>**, Kawamura, Y. (2026, 9). Beyond .... The 67th Annual Meeting of the Japanese Society of Social Psychology (日本社会心理学会第67回大会), Kansai University, Suita, Japan, September 12-13. (口頭発表)
+
 1. 三石宏大・前田友吾・**<u>三井クリオネ</u>**・河村悠太 (2025). 人は罰場面を避けるのか?―日本とアメリカにおける国際比較― 日本人間行動進化学会第18回大会, 東京, 2025年11月29日-30日. (ポスター発表)
 
 1. **<u>Mitsui, C.</u>**, Kawamura, Y. (2025, 9). *Beyond the Political Moderate and Midpoint Response Bias: Contrasting Japan’s Bi-conceptualism with the American Ideological Structure*. The 66th Annual Meeting of the Japanese Society of Social Psychology (日本社会心理学会第66回大会), University of Tokyo, Tokyo, Japan, September 20-21. (ポスター発表)
