@@ -14,10 +14,14 @@ author_profile: true
 <!-- ## Published Papers -->
 
 {% assign sorted_publications = site.publications | sort: "year" | reverse %}
+<ol>
 {% for post in sorted_publications %}
-  <p>{{ post.citation }} {% if post.doi %}<a href="{{ post.doi }}" target="_blank">{{ post.doi }}</a>{% endif %}</p>
-  {{ post.content }}
+  <li>
+    <p>{{ post.citation }} {% if post.doi %}<a href="{{ post.doi }}" target="_blank">{{ post.doi }}</a>{% endif %}</p>
+    {{ post.content }}
+  </li>
 {% endfor %}
+</ol>
 
 
 
