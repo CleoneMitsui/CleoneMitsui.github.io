@@ -7,10 +7,12 @@ permalink: /presentations/
 
 **<u>Mitsui, C.</u>**, Kawamura, Y. (2026, 7). *Not taking a stance on political issues lowers trust in both Japan and the United States* [Oral presentation]. The 49th Annual Meeting of International Society of Political Psychology, Newcastle, United Kingdom, July 16-29.
 
-Mitsuishi, K., Maeda, Y., **<u>Mitsui, C.</u>**, Kawamura, Y. (2026, 6). *Avoidance of altruistic punishment in cross-cultural contexts: A comparison of direct and indirect punishment* [Poster session]. International Conference on Social Dilemmas, Shimonoseki, Japan, June 1-5.
+**<u>Mitsui, C.</u>**, Kawamura, Y. (2026, 9). *Talking politics in AI-simulated chat experiments: Evidence of social influence*. The 67th Annual Meeting of the Japanese Society of Social Psychology (日本社会心理学会第67回大会), Kansai University, Osaka, Japan, September 12-13. (口頭発表)
 
 
 <br><span style="color: #336699; font-size: 1.5em;">International</span><br>
+
+1. Mitsuishi, K., Maeda, Y., **<u>Mitsui, C.</u>**, Kawamura, Y. (2026, 6). *Avoidance of altruistic punishment in cross-cultural contexts: A comparison of direct and indirect punishment* [Poster session]. International Conference on Social Dilemmas, Shimonoseki, Japan, June 1-5.
 
 1. **<u>Mitsui, C.</u>**, Kawamura, Y. (2026, 2). *Echoes in the Chat: Conformity in AI-Simulated Political Majorities* [Poster session]. The 26th Annual Convention of Society for Personality and Social Psychology, Chicago, Il, United States, February 26-28.
 

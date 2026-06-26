@@ -17,8 +17,5 @@ Currently, I am on a quest to connect the dots between individual political dial
 
 If you fancy a collaboration or chat, please feel free to reach out.
 
-<span style="color: #1e4f66;">**Publications**</span>  
-I have taken the scenic route back to academia, so my publication list is still in the making. Your interest is greatly appreciated as I lay the first stones. Stay tuned for updates!
-
 <span style="color: #1e4f66;">**Off the Clock**</span>  
 When I am not tangled in research, you will find me on the badminton court as a member of the [Osaka Ladies Badminton Federation](https://www.jlbad.gr.jp/index.php/), where I compete in their league and international tournaments, with enthusiasm that outmatches my skill. At home, I switch gears to playing music, painting, and being indefinitely outpaced by my two sons.
