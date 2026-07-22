@@ -10,7 +10,7 @@ permalink: /presentations/
 
 <br><span style="color: #336699; font-size: 1.5em;">International</span><br>
 
-1. **<u>Mitsui, C.</u>**, Kawamura, Y. (2026, 7). *Not taking a stance on political issues lowers trust in both Japan and the United States* [Oral presentation]. The 49th Annual Meeting of International Society of Political Psychology, Newcastle, United Kingdom, July 16-29.
+1. **<u>Mitsui, C.</u>**, Kawamura, Y. (2026, 7). *Not taking a stance on political issues lowers trust in both Japan and the United States* [Oral presentation]. The 49th Annual Meeting of International Society of Political Psychology, Newcastle, United Kingdom, July 16-19.
 
 1. Mitsuishi, K., Maeda, Y., **<u>Mitsui, C.</u>**, Kawamura, Y. (2026, 6). *Avoidance of altruistic punishment in cross-cultural contexts: A comparison of direct and indirect punishment* [Poster session]. International Conference on Social Dilemmas, Shimonoseki, Japan, June 1-5.
 
