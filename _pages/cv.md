@@ -54,7 +54,7 @@ editor_options:
         department
 
 -   2011 - 2013: **Apple** - London, United Kingdom  
-        <span style="color: #1e4f66;">**Apple Certified Technician**</span>
+        <span style="color: #1e4f66;">**Apple Certified Macintosh Technician (ACMT)**</span>
     -   Diagnosed and resolved issues across iOS, macOS, and other Apple ecosystems. Managed device repairs and delivered hands-on troubleshooting to ensure optimal functionality
 
 -   2006 - 2011: **Fairchild TV, TVB** - Toronto, Canada  
@@ -73,7 +73,16 @@ editor_options:
 **Teaching Fellow**
    2025-Current Undergraduate Course: Statistical Methods in Psychology  
 **Qualification**
-   TEFL Trained and Certified (120 hours), 2020
+   TEFL Trained and Certified (120 hours), 2020  
+   Apple Certified Macintosh Technician (ACMT)
+
+# Language Proficiency
+
+-   English: Native
+-   Japanese: Advanced (JLPT N1)
+-   French: Upper-intermediate (DELF B2)
+-   Mandarin: Advanced (HSK Level 9)
+-   Cantonese: Native
 
 <!-- # Publications
 
