@@ -1,8 +1,9 @@
 ---
-layout: archive
-title: "Profile"
+layout: editorial-cv
+title: "Curriculum vitae"
+editorial_title: "CV"
 permalink: /cv/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 editor_options: 
@@ -14,19 +15,20 @@ editor_options:
 
 <!-- [Download CV here](https://cleone.github.io/files/cv.pdf) -->
 
+# Research fellowships
+
+<div class="cv-entry"><div class="cv-date">2025–2027</div><div><h3>Research Fellow (DC2)</h3><p>Japan Society for the Promotion of Science<br><span lang="ja">日本学術振興会特別研究員 DC2</span></p></div></div>
+
 # Education
 
--   (expected) Ph.D in Psychology, **Osaka Metropolitan University**, 2027\
-    Osaka, Japan
+<div class="cv-entry"><div class="cv-date">2027<br><span>Expected</span></div><div><h3>PhD in Psychology</h3><p>Osaka Metropolitan University<br>Osaka, Japan</p></div></div>
 
--   MA in Psychology, **Touro University**, 2022\
-    Los Alamitos, United States
+<div class="cv-entry"><div class="cv-date">2022</div><div><h3>MA in Psychology</h3><p>Touro University<br>Los Alamitos, United States</p></div></div>
 
--   HBA, **University of Toronto**, 2013\
-    Double Major (Music and New Media)\
-    Toronto, Canada
+<div class="cv-entry"><div class="cv-date">2013</div><div><h3>HBA (Honours Bachelor of Arts)</h3><p>University of Toronto<br><strong>Double major: Music &amp; New Media Studies</strong><br>The latter is a joint program with Centennial College<br>Toronto, Canada</p></div></div>
 
-**Studying Abroad**
+<h3 class="cv-subheading">Studying Abroad</h3>
+
 -   2011 - University of Siena (Italian Political Movements)\
     Siena, Italy
 
@@ -34,9 +36,6 @@ editor_options:
     Berlin, Germany
 
 # Professional Experience
-
--   2025 - 2027: **Research Fellow (DC2), Japan Society for the Promotion of Sciences**  
-        <span style="color: #1e4f66;">**日本学術振興会特別研究員 DC2**</span>
 
 -   2020 - 2025: **Moose School** - Hybrid  
         <span style="color: #1e4f66;">**TEFL Certified ESL Teacher**</span>
@@ -46,7 +45,7 @@ editor_options:
         countries
 
 -   2015 - 2017: **PERSOL Career** - Tokyo, Japan  
-        <span style="color: #1e4f66;">**Career Consultant**</span>
+        <span style="color: #1e4f66;">**Consultant**</span>
     -   Placed bilingual professionals within multinational firms in
         financial, legal, and audit sectors
     -   <u>Achievement</u>: Grossing over 13 million JPY in a quarter,
@@ -57,7 +56,7 @@ editor_options:
         <span style="color: #1e4f66;">**Apple Certified Macintosh Technician (ACMT)**</span>
     -   Diagnosed and resolved issues across iOS, macOS, and other Apple ecosystems. Managed device repairs and delivered hands-on troubleshooting to ensure optimal functionality
 
--   2006 - 2011: **Fairchild TV, TVB** - Toronto, Canada  
+-   2006 - 2011: **Fairchild Television (TVB-affiliated)** - Toronto, Canada<br>
         <span style="color: #1e4f66;">**Broadcast Presenter**</span>
     -   News Programs: Led and anchored news programs providing commentary on current events
     -   Conduct Interviews: Engaged with guests from various sectors to
@@ -65,24 +64,31 @@ editor_options:
 
 # Skills: AI-Integrated Experimental Design
 
--   Programming & Tools: Python (pandas, re, json, matplotlib), R, Git, Streamlit, OpenAI API, C++, Java
+-   Programming & Tools: Python, R, JavaScript, C++, Java, Streamlit
 -   LLM Engineering: few-shot/zero-shot learning, probabilistic ordinal response modelling
 -   Experimental Infrastructure: real-time AI-human interaction system, mobile-friendly UI
 
 # Teaching
-**Teaching Fellow**
-   2025-Current Undergraduate Course: Statistical Methods in Psychology  
-**Qualification**
-   TEFL Trained and Certified (120 hours), 2020  
-   Apple Certified Macintosh Technician (ACMT)
+
+<div class="cv-entry"><div class="cv-date">2026<br><span>First semester</span></div><div><h3>Teaching Fellow</h3><p>Statistical Methods in Psychology I (<span lang="ja">心理学統計法1</span>)<br>Undergraduate course · Osaka Metropolitan University</p></div></div>
+
+<div class="cv-entry"><div class="cv-date">2025–2026</div><div><h3>Teaching Fellow</h3><p>Statistical Methods in Psychology I (<span lang="ja">心理学統計法1</span>)<br>Undergraduate course · Osaka Metropolitan University</p></div></div>
+
+# Qualifications
+
+- Teaching English as a Foreign Language (TEFL) certification, 120 hours, 2020
+- Apple Certified Macintosh Technician (ACMT)
+- Badminton Official Umpire Qualification（日本バドミントン協会 公認審判員）
 
 # Language Proficiency
 
--   English: Native
--   Japanese: Advanced (JLPT N1)
--   French: Upper-intermediate (DELF B2)
--   Mandarin: Advanced (HSK Level 9)
--   Cantonese: Native
+<dl class="language-grid">
+  <div><dt>English</dt><dd>Native</dd></div>
+  <div><dt>Japanese</dt><dd>Advanced · JLPT N1</dd></div>
+  <div><dt>French</dt><dd>Upper-intermediate · DELF B2</dd></div>
+  <div><dt>Mandarin</dt><dd>Advanced · HSK Level 9</dd></div>
+  <div><dt>Cantonese</dt><dd>Native</dd></div>
+</dl>
 
 <!-- # Publications
 
@@ -96,17 +102,16 @@ archive-single-talk-cv.html %} {% endfor %}</ul> -->
 
 # Research Grants
 
--   11.2025 - 03.2026 Osaka Metropolitan University FY2025 Research Fellowships
+-   11.2024 - 03.2027 Osaka Metropolitan University Research Fellowships (FY2024–FY2026)
 -   04.2025 - 03.2027 Research Fellowships for Young Scientists, Japan Society for the Promotion of Science
--   11.2024 - 03.2025 Osaka Metropolitan University FY2024 Research Fellowships
 -   10.2024 - 09.2025 Research Grant by K. MATSUSHITA FOUNDATION
 -   04.2024 - 03.2025 FY2024 JST Support For Pioneering Research Initiated by the Next Generation
 
 # Awards
 
--   2026 **2025年度後期学長表彰**, Osaka Metropolitan University
+-   2026 **President’s Award**（2025年度後期学長表彰）, Osaka Metropolitan University
 -   2026 **International Travel/Registration Award** ($850), Society for Personality and Social Psychology
--   2026 **学術大会優秀発表賞**, Japanese Psychological Association
+-   2026 **Distinguished Presentation Award**（学術大会優秀発表賞）, Japanese Psychological Association
 -   2026 **JPA Distinguished Poster Presentation Award - International Division**, Japanese Psychological Association
 
 # Professional Membership
@@ -129,4 +134,3 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams
 -->
-

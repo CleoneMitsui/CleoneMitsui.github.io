@@ -1,8 +1,9 @@
 ---
-layout: archive
+layout: editorial-record
+editorial_title: "Papers"
 title: "Papers"
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
 
 {% if site.author.googlescholar %}
@@ -25,9 +26,11 @@ author_profile: true
 
 
 
-## Manuscripts in Prep or Under Review
+<h2 class="manuscripts-heading">Manuscripts in Prep or Under Review</h2>
 
 {% assign sorted_manuscripts = site.manuscripts | sort: "title" %}
+<ol>
 {% for post in sorted_manuscripts %}
-  <p>{{ post.authors }}. {{ post.title }}. <i>{{ post.status }}</i>.</p>
+  <li><p>{{ post.authors }}. {{ post.title }}. <i>{{ post.status }}</i>.</p></li>
 {% endfor %}
+</ol>
