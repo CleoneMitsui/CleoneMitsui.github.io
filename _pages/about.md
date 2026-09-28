@@ -10,7 +10,7 @@ redirect_from:
 
 <section class="hero" aria-labelledby="intro-heading">
   <div>
-    <p class="eyebrow">Political psychology · Culture · Social influence</p>
+    <p class="eyebrow">Political psychology · Culture · Human-AI interaction</p>
     <h1 id="intro-heading">What we say<br>and <em>don’t say</em><br>about politics.</h1>
     <p class="intro">I’m Cleone (klee-OH-nee). I study how people express political views, interpret others’ positions, and respond to social influence across cultural contexts.</p>
     <div class="actions"><a class="button" href="#research">My research ↓</a><a class="text-link" href="{{ '/cv/' | relative_url }}">View CV →</a></div>
