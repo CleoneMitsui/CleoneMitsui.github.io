@@ -34,3 +34,10 @@ author_profile: false
   <li><p>{{ post.authors }}. {{ post.title }}. <i>{{ post.status }}</i>.</p></li>
 {% endfor %}
 </ol>
+
+<h2 class="manuscripts-heading">Doctoral dissertation</h2>
+
+<div class="dissertation-entry">
+  <p><i>Neither here nor there: how the political middle is perceived, misread, and judged</i> [Working title].</p>
+  <p>Doctoral dissertation in preparation, Osaka Metropolitan University.</p>
+</div>
