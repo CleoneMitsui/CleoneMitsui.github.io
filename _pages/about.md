@@ -14,7 +14,7 @@ redirect_from:
     <h1 id="intro-heading">What we say<br>and <em>don’t say</em><br>about politics.</h1>
     <p class="intro">I’m Cleone (klee-OH-nee). I study how people express political views, interpret others’ positions, and respond to social influence across cultural contexts.</p>
     <div class="actions"><a class="button" href="#research">My research ↓</a><a class="text-link" href="{{ '/cv/' | relative_url }}">View CV →</a></div>
-    <div class="hero-socials" aria-label="Social and contact links"><a href="https://twitter.com/{{ site.author.twitter }}">X ↗</a><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}">LinkedIn ↗</a><a href="mailto:{{ site.author.email }}">Email ↗</a></div>
+    <div class="hero-socials" aria-label="Social and contact links"><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}">LinkedIn ↗</a><a href="mailto:{{ site.author.email }}">Email ↗</a></div>
     {% include editorial-academic-profiles.html %}
   </div>
   <figure class="portrait"><img src="{{ '/images/profile.png' | relative_url }}" alt="Cleone Mitsui" width="190" height="190"><figcaption><strong>Cleone Mitsui / <span lang="ja" style="white-space: nowrap;">三井 クリオネ</span></strong><br>PhD student in psychology<br>JSPS Research Fellow (DC)<br>Osaka Metropolitan University</figcaption></figure>
