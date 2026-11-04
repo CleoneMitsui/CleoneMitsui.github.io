@@ -109,9 +109,10 @@ archive-single-talk-cv.html %} {% endfor %}</ul> -->
 
 # Awards
 
--   2026 **President’s Award**（2025年度後期学長表彰）, Osaka Metropolitan University
+-   2026 **Okamura Award** (岡村賞), Osaka Metropolitan University
+-   2026 **President’s Award** (2025年度後期学長表彰), Osaka Metropolitan University
 -   2026 **International Travel/Registration Award** ($850), Society for Personality and Social Psychology
--   2026 **Distinguished Presentation Award**（学術大会優秀発表賞）, Japanese Psychological Association
+-   2026 **Distinguished Presentation Award** (学術大会優秀発表賞), Japanese Psychological Association
 -   2026 **JPA Distinguished Poster Presentation Award - International Division**, Japanese Psychological Association
 
 # Professional Membership
