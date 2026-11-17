@@ -26,7 +26,7 @@ author_profile: false
 
 
 
-<h2 class="manuscripts-heading">Manuscripts in Prep or Under Review</h2>
+<h2 class="manuscripts-heading">Working papers</h2>
 
 {% assign sorted_manuscripts = site.manuscripts | sort: "title" %}
 <ol>
